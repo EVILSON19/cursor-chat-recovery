@@ -1,0 +1,6 @@
+# ShellCheck configuration
+# https://www.shellcheck.net/wiki/
+
+# SC2155: Declare and assign separately - stylistic, not a bug
+disable=SC2155
+
